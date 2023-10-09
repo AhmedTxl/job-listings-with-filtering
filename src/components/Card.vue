@@ -59,9 +59,9 @@
 
             </div>
 
-            <a href="#" class="font-semibold text-lg hover:text-[#5ba4a4]" :aria-label="job.position">
+            <h1 class="font-semibold text-lg hover:text-[#5ba4a4] cursor-pointer">
               {{ job.position }}
-            </a>
+            </h1>
 
             <div class="inline-flex items-start justify-center gap-2">
               <p class="text-[#7b8e8e] font-medium">
